@@ -1,0 +1,1 @@
+A simple Spring application based on Spring Pet Clinic.
